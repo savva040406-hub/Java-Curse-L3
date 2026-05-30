@@ -17,7 +17,7 @@ public class Task41 {
 
         if (args.length == 0) {
             System.out.println("Передайте путь к файлу первым аргументом командной строки.");
-            System.out.println("Пример: java Task40 input.txt");
+            System.out.println("Пример: java Task41 input.txt");
             return;
         }
 
