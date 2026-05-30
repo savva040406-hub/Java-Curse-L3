@@ -1,0 +1,3 @@
+same.txt -> same.huff -> same_decoded.txt
+freq.txt -> freq.huff -> freq_decoded.txt
+Task42.class -> Task42_class.huff -> Task42_class_decoded.class
